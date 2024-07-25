@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+- Fullstack developer since 2012
+- Exon Sistemas partner since 2014
+- Specialist in production softwares
+- Currently focusing on creating integration softwares
+
+[![Lucas GitHub stats](https://github-readme-stats-lucasschs-projects.vercel.app/api?username=lucassch)](https://github.com/lucassch/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats-lucasschs-projects.vercel.app/api/top-langs?username=lucassch)](https://github.com/lucassch/github-readme-stats)
+
 <!--
 **lucassch/lucassch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
